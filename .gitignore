@@ -1,0 +1,14 @@
+# Flutter-specific
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugin-dependencies
+android/build
+ios/Pods
+ios/.symlinks
+ios/Frameworks
+ios/Runner.xcodeproj/project.xcworkspace/xcuserdata/
+build/
+# Editor related
+.idea/
+.vscode/
